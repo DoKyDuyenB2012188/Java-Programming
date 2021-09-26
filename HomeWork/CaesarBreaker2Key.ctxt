@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CaesarBreaker2Key
+comment1.params=message\ start
+comment1.target=java.lang.String\ halfOfString(java.lang.String,\ int)
+comment2.params=message\ key1\ key2
+comment2.target=java.lang.String\ encrypted(java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=void\ test()
+numComments=4
